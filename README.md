@@ -9,6 +9,10 @@
 - I love music as well.
 - Have around four certifications for VR game development for no particular reason :sob:
 
+
+### Badges
+![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Random Stats
