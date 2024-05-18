@@ -1,9 +1,9 @@
 ## Hello, I'm @VulnLol
 
-Im interested in all thing's computers,
+Im interested in all things related to computers.
 
 # Why is my profile private?
-OPSEC reasons! It wasn't always private but for now I am playing it safe. Feel free to contact me through on Signal, Telegram, or email.
+OPSEC reasons! It wasn't always private but for now I am playing it safe. Feel free to contact me through on Telegram or by email by using my PGP key.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
